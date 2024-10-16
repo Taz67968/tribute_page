@@ -17,7 +17,6 @@ article{
     font-size: large;
     padding-bottom: 1cm;
     padding-top: 0.5cm;
-    t
 }
 h2,h3{
     text-align: center;
@@ -31,8 +30,11 @@ ul{
 }
 .heading{
     text-align: center;
-    background-color: aliceblue;
+    background-color: rgb(106, 115, 123);
 }
 body{
     background-color:lightgoldenrodyellow ;
+}
+button{
+    color: aquamarine;
 }
