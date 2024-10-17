@@ -30,12 +30,12 @@ ul{
 }
 .heading{
     text-align: center;
-    background-color: rgb(106, 115, 123);
+    background-color: rgb(218, 230, 240);
 }
 body{
-    background-color:lightgoldenrodyellow ;
+    background-color:white;
 }
-button{
+button.climate{
     color: aquamarine;
 }
 button.head{
